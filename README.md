@@ -12,6 +12,5 @@ Dataset](http://datashare.ed.ac.uk/handle/10283/2791) and unzip it to dataset fo
 ```bash
 pip install -r requirements.txt
 
-```bash
 python3 svm_audio_classifiier.py
 python3 cnn_audio_classifiier.py
