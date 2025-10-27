@@ -1,0 +1,9 @@
+numpy
+librosa
+matplotlib
+tqdm
+scikit-learn
+tensorflow
+joblib
+seaborn
+noisereduce
